@@ -2,9 +2,9 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](https://www.victorgau.com)
-* [唯客學院部落格](https://victorgau.com/blog/)
-* [高雄Python學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院網址](http://www.victorgau.com)
+* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院線上課程](https://khpy.teachable.com)
 
 ## 課程內容：
 
@@ -33,3 +33,7 @@
 
 * 修改網頁樣板並 push 到 GitHub 上面。
 * 使用 Python 產生靜態網頁 (譬如地圖) 並 push 到 GitHub Pages 上面。
+
+### 參考連結
+
+* [為你自己學 Git](https://gitbook.tw/)
