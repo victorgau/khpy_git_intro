@@ -2,8 +2,8 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](http://www.victorgau.com)
-* [唯客學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+* [唯客學院網址](http://www.vcdemy.com)
+* [唯客學院粉絲團](https://www.facebook.com/vcdemy/)
 * [唯客學院線上課程](https://khpy.teachable.com)
 
 ## 課程內容：
@@ -12,6 +12,7 @@
 
 * [下載 git](https://git-scm.com/downloads)
 * [github.com](https://github.com/)
+* [GitHub快速入門](https://docs.github.com/en/get-started/quickstart)
 * [GitHub Desktop](https://desktop.github.com/)
 * [GitHub Pages](https://pages.github.com/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -37,3 +38,5 @@
 ### 參考連結
 
 * [為你自己學 Git](https://gitbook.tw/)
+* [猴子都能懂的git入門指南](https://backlog.com/git-tutorial/tw/)
+* [Git & GitHub 教學手冊](https://w3c.hexschool.com/git/cfdbd310)
